@@ -2,4 +2,4 @@
 title: info
 ---
 
-I am a front-end web developer. I used to be a web designer also, but now I concentrate on the code.
+I'm a full-stack developer based in the Minneapolis-St.Paul area. Sometimes I write things about tech, code, or whatever's on my mind.
